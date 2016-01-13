@@ -43,6 +43,7 @@ func TestStringChars(t *testing.T) {
 			for _, v2 := range c {
 				if v1 == v2 {
 					m = true
+					break
 				}
 			}
 			if !m {
