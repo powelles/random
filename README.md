@@ -3,7 +3,7 @@ Simple Crypto Random Strings &amp; Integers for Go
 
 [![Build Status](https://travis-ci.org/tinowell/random.svg?branch=master)](https://travis-ci.org/tinowell/random)
 [![GoDoc](https://godoc.org/github.com/tinowell/random?status.svg)](http://godoc.org/github.com/tinowell/random)
-
+[![GoReportCard](https://img.shields.io/badge/go_report-A+-brightgreen.svg)](http://goreportcard.com/report/tinowell/random)
 
 ###Install:
 
