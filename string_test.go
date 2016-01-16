@@ -35,12 +35,11 @@ func TestStringRandomness(t *testing.T) {
 }
 
 func TestStringChars(t *testing.T) {
-	c := "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
 	for i := 1; i < 1001; i++ {
 		r := String(100)
 		for _, v1 := range r {
 			m := false
-			for _, v2 := range c {
+			for _, v2 := range chars {
 				if v1 == v2 {
 					m = true
 				}
