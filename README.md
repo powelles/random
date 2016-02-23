@@ -1,13 +1,13 @@
 # random
 Simple Crypto Random Strings &amp; Integers for Go
 
-[![Build Status](https://travis-ci.org/tinowell/random.svg?branch=master)](https://travis-ci.org/tinowell/random)
-[![GoDoc](https://godoc.org/github.com/tinowell/random?status.svg)](http://godoc.org/github.com/tinowell/random)
-[![GoReportCard](https://img.shields.io/badge/go_report-A+-brightgreen.svg)](http://goreportcard.com/report/tinowell/random)
+[![Build Status](https://travis-ci.org/powelles/random.svg?branch=master)](https://travis-ci.org/powelles/random)
+[![GoDoc](https://godoc.org/github.com/powelles/random?status.svg)](http://godoc.org/github.com/powelles/random)
+[![GoReportCard](https://img.shields.io/badge/go_report-A+-brightgreen.svg)](http://goreportcard.com/report/powelles/random)
 
 ###Install:
 
-    go get -u github.com/tinowell/random
+    go get -u github.com/powelles/random
 
 ###Usage:
 
@@ -16,7 +16,7 @@ Simple Crypto Random Strings &amp; Integers for Go
     import (
         "fmt"
 
-        "github.com/tinowell/random"
+        "github.com/powelles/random"
     )
 
     func main() {
