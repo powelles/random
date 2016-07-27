@@ -46,7 +46,7 @@ func TestStringChars(t *testing.T) {
 				}
 			}
 			if !m {
-				t.Error("Invalid charachter generated")
+				t.Error("Invalid character generated")
 			}
 		}
 	}
