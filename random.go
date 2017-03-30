@@ -10,7 +10,7 @@ const chars string = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuv
 
 func newInt(i int) int {
 	var (
-		r *big.Int
+		r   *big.Int
 		err error
 	)
 
