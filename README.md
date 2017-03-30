@@ -1,5 +1,5 @@
 # random
-Simple Crypto Random Strings &amp; Integers for Go
+Simple Random Strings &amp; Ints for Go
 
 [![Build Status](https://travis-ci.org/powelles/random.svg?branch=master)](https://travis-ci.org/powelles/random)
 [![GoDoc](https://godoc.org/github.com/powelles/random?status.svg)](http://godoc.org/github.com/powelles/random)
