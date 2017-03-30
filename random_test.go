@@ -48,7 +48,7 @@ func TestNewRuneValues(t *testing.T) {
 }
 
 func TestNewRuneRandomness(t *testing.T) {
-	for i := 0; i < 100; i++ {
+	for i := 0; i < 10; i++ {
 		a, b, c := newRune(), newRune(), newRune()
 		if a == b && b == c {
 			t.Error("Duplicate runes")
