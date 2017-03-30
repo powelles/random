@@ -5,11 +5,11 @@ Simple Crypto Random Strings &amp; Integers for Go
 [![GoDoc](https://godoc.org/github.com/powelles/random?status.svg)](http://godoc.org/github.com/powelles/random)
 [![GoReportCard](https://img.shields.io/badge/go_report-A+-brightgreen.svg)](http://goreportcard.com/report/powelles/random)
 
-###Install:
+### Install:
 
     go get -u github.com/powelles/random
 
-###Usage:
+### Usage:
 
     package main
 
